@@ -14,10 +14,5 @@ Scikit-learn
 TF-IDF
 Logistic Regression
 Gradio
-├── docs/              # Reports and documentation
-├── prototype/         # Prototype source code
-├── diagrams/          # UML and architecture diagrams
-├── presentations/     # Project presentations
-└── README.md
 # Author
 Zandile Dladla
